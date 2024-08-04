@@ -1,2 +1,2 @@
 # git_test
-this is a test repository for practice
+Hello Odin!
